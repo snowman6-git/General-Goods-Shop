@@ -36,7 +36,7 @@ export default {
 
 <style scoped>
 #btn_case {
-  position: fixed;
+  position: absolute;
   width: 100%;
   display: flex;
   justify-content: space-around;
